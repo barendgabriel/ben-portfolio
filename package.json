@@ -1,12 +1,14 @@
 {
   "name": "ben-portfolio",
   "version": "1.0.0",
-  "description": "",
+  "description": "Personal portfolio project",
   "main": "index.html",
   "scripts": {
-    "start": "your_start_command_here"
+    "start": "lite-server"
   },
-  "dependencies": {
-    "some-package": "^1.0.0"
-  }
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "author": "",
+  "license": "ISC"
 }
