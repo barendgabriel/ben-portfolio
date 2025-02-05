@@ -1,0 +1,12 @@
+{
+  "name": "ben-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "your_start_command_here"
+  },
+  "dependencies": {
+    "some-package": "^1.0.0"
+  }
+}
